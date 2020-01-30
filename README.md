@@ -20,3 +20,4 @@ public interface LinkFilter {
 ```
 
 接口不能实例化，上面算什么操作？匿名？
+![](./匿名内部类.png)
